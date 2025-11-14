@@ -1,4 +1,4 @@
-## Hey! I'm Matheus, a student who's incredibly excited about software development and design. I'm well equipped with a technical skillset and an eagerness to experiment!
+## Hey! I'm Matheus, a student who's incredibly excited about software development.
  <div>
    <a href="https://github.com/matheus-saboia">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-saboia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
